@@ -18,11 +18,17 @@ Similar to the first reading, the second reading is also a coder bemoaning the u
 This made Microsoft Office almost impossible to sustain, and Stross believes it's demise is destined.  
 ### Markdown: Markup That's Downright Simple
 With this reading, we are introduced to a new type of text modifier, Markdown. The author, Erik Martin, outlines the benefits of understanding the language of Markdown, which was created by John Gruber in 2004. The article is broken up into the following sections:
-* Markdown Can Make Online Writing Easier Than HTML and Other Markup Languages
-* Dummy-Proof Text
-* Simple By Design
-* One Size Does Not Fit All
-* The More Things Change The More They Stay The Same.
+* *Markdown Can Make Online Writing Easier Than HTML and Other Markup Languages:* Which introduces the simplicity of Markdown in a technological world that is constantly becoming complex. 
+* *Dummy-Proof Text:* The wonderful and god-like Carlos Evia at Virginia Tech is interviewed in this section on the simple, shorthand of the Markdown language.
+>Years ago, I started coding websites with HTML and then structuring documentation with XML, but Markdown allows me to use plain text for similar purposes. My Markdown files can become HTML and XML deliverables with one or two lines of commands or a few keystrokes.
+
+* *Simple By Design:* Markdown was created for the specific process of being simplistic. This section emphasizes the combination of the shorthand and the basic commands and design, as well as the use through any text editor. Plus, there are many additional tools created to expand Gruber's original Markdown. 
+* *One Size Does Not Fit All:* Again, the gracious and honorable Evia is referenced to warn users of Markdown that it isn't an end-all-be-all. 
+>Markdown is for textual content. If an author is also in charge of graphic design, page layout, or multimodal content, then the Markdown text needs a second or even third layer of processing to be ready for end users. Fortunately, there are many commercial and open source applications that take care of some of those steps, but there is frequently some heavy author work behind a final product that was built with pure Markdown.
+
+But, ultimately, Markdown is still designed to be a simple application.
+* *The More Things Change The More They Stay The Same:* This section summarises the other sections, and says this: that no matter how far we advance technologically, Markdown will still last, as plain text will never go away. This is because programmers follow the KISS rule: Keep it simple, stupid.
+
 
 ### Guide to Podcasting
 To quote the article itself, 
