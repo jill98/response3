@@ -47,3 +47,8 @@ This reading is just what the title says: a timeline of podcasting. Starting in 
 >And, by 2009, 43% of Americans are aware of the term podcasting. 22% have listened to a podcast.
 
 By June of 2013, Apple announced that one billion podcast subscriptions had been achieved, with kicked off the second boom. Podcasts have only grown in popularity over time, and continue to do so in 2017.
+
+### Discussion Questions
+* Is there anyway that Word can evolve to fit a more simplistic style?
+* How can podcasts progress any further without expanding beyond a specific audio medium? Is it possible?
+* Why is word such a popular application, despite it being a shitty application?
