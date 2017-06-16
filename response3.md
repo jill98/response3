@@ -43,4 +43,7 @@ The author, Vanessa Quirk, outlines the art of the podcast into seven sections f
 * Key Unresolved Issues
 
 ### Podcasting Timeline
-This reading is just what the title says: a timeline of podcasting. Starting in March 1999 to present day, this timeline highlights key moments of podcasting progression.
+This reading is just what the title says: a timeline of podcasting. Starting in March 1999 to present day, this timeline highlights key moments of podcasting progression. The podcast story starts with the prototype of the RSS feed being launched by Netscape, which allows publishers to syndicate content automatically. Dave Winer and Adam Curry then included audio to RSS in 2000. The first podcast is born in September of 2003 by Winer, which is the oldest, still-running podcast. Thus, in 2004, the boom of podcasts begins,
+>And, by 2009, 43% of Americans are aware of the term podcasting. 22% have listened to a podcast.
+
+By June of 2013, Apple announced that one billion podcast subscriptions had been achieved, with kicked off the second boom. Podcasts have only grown in popularity over time, and continue to do so in 2017.
