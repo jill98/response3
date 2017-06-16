@@ -1,13 +1,15 @@
 ## Reading Response
 By: Jill Marney
 ### Please Stop Sending Me Your Shitty Word Document
-This reading is a post made by a man namedd Marc Scott, who discussed with great anger the detriments of Microsoft Words, and bemoans the popularity of the application. This passage is broken into six sections (not including the intro), which include:
-* I Don't Have Word Installed
-* Plain Text Should Be Plain
-* Are You Really That Good a Designer
-* Tables Grrrr!
-* What's With the Crud?
-* A Heartfelt Plea
+This reading is a post made by a man named Marc Scott, who discussed with great anger the detriments of Microsoft Words, and bemoans the popularity of the application. This passage is broken into six sections (not including the intro), which include:
+* *I Don't Have Word Installed:* Where Scott explains that .docx files only work for Microsoft Word, which results in more work for the receiving party if they haven't installed Word.
+* *Plain Text Should Be Plain:* In which Scott questions the purpose of using a Word Document if the majority of the work is just text. If that is the case, then it would be easier to just make it a .txt file. 
+* *Are You Really That Good a Designer:* Scott acknowledges that using Word could be justified, but only if the creator of the document knew exactly how to maximize the design aspects of word. Otherwise, it's pointless.
+* *Tables Grrrr!:* Where Scott expresses his distaste for table in general, but especially through word. He points out that at least HTML tables are easy to manage, unlike Word.
+* *What's With the Crud?:* In a similarily anger manner, Scott asks his audience to avoid sending any additional features like animation or 3D Word Art, because it results in more frustration on his part because he cannot see any of it. 
+* *A Heartfelt Plea:* In this wrap-up of his post, Scott asks his audience to find other ways to make their content accessible, and to avoid Word as much as possible. To quote him directly,
+>Perhaps you could save the file as a .txt, .rtf or PDF. Just spare a thought for those of us that choose not to use Microsoft Word, and respect our right not to do so.
+Oh... and learn to write in sodding Markdown.
 
 ### Why Microsoft Word Must Die
 Similar to the first reading, the second reading is also a coder bemoaning the use of Microsoft, a man by the name of Charlie Stross. 
