@@ -12,7 +12,10 @@ This reading is a post made by a man named Marc Scott, who discussed with great 
 Oh... and learn to write in sodding Markdown.
 
 ### Why Microsoft Word Must Die
-Similar to the first reading, the second reading is also a coder bemoaning the use of Microsoft, a man by the name of Charlie Stross. 
+Similar to the first reading, the second reading is also a coder bemoaning the use of Microsoft, a man by the name of Charlie Stross. Stross has worked with word processors and text editors for 30 years, and in the beginning, the ideal combination for a program was a text file, containing embedded commands that could be edited with a text editor and fed to a variety of tools. Programmers then strived to develop a tool that hid these complex features from the author called a Word Processor. Around this time, though, Microsoft grew enormously, and began to dominate the market. But what began happening is that they would absorb resources from their competitors and throw it into their own software. To quote Stross:
+>Its interface is convoluted, baroque, making the easy difficult and the difficult nearly impossible to achieve. It guarantees job security for the guru, not transparency for the zen adept who wishes to focus on the task in hand, not the tool with which the task is to be accomplished.
+
+This made Microsoft Office almost impossible to sustain, and Stross believes it's demise is destined.  
 ### Markdown: Markup That's Downright Simple
 With this reading, we are introduced to a new type of text modifier, Markdown. The author, Erik Martin, outlines the benefits of understanding the language of Markdown, which was created by John Gruber in 2004. The article is broken up into the following sections:
 * Markdown Can Make Online Writing Easier Than HTML and Other Markup Languages
